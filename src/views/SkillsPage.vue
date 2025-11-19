@@ -6,6 +6,7 @@
     <li>HTML, CSS, SASS</li>
     <li>Javascript, Typescript</li>
     <li>React, Next</li>
+    <li>Java, Spring Framework</li>
     <li>Vue</li>
     <li>API:s (REST, JSON)</li>
     <li>Node, express</li>
